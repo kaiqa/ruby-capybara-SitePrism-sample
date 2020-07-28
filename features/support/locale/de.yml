@@ -1,0 +1,24 @@
+ de:
+  text:
+    thank_you_order_success: Vielen Dank für Deine Bestellung! Wir senden Dir zusätzlich eine   Bestellbestätigung per Email zu.
+    buy_now: Jetzt kaufen
+    btn_next: Weiter
+    btn_redeem: Einlösen
+    credit_card: Kreditkarte
+    direct_debit: Kauf auf Rechnung
+    choose_sepa: SEPA-Lastschrift
+    order_overview: Deine Bestellübersicht
+
+      page_o_box:
+      product_info_slider:
+      imprint_address: 'apiman.de is pure fiction'
+      imprint_manager: 'Geschäftsführer'
+      imprint_contact: 'Kostenlose Hotline: 0800 - 12345
+      E-Mail: kontakt@apiman.de'
+      imprint_registry_entry: 'Eintragung im Handelsregister.'
+      page_gtc: 'some page'
+      gtc_text: '1. Lorem ipsum
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+      At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
+
+ 

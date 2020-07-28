@@ -1,0 +1,5 @@
+---
+staging:
+    :url: http://www.apiman.dev
+production:
+        :url: https://apiman:seidfesdeno@www.apimanprod.de

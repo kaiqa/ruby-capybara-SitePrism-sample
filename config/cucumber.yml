@@ -1,0 +1,30 @@
+
+default:  --no-source --format pretty --tags ~@not_ready
+slow:  --no-source --format pretty --tags @slow --tags ~@not_ready
+fast:  --no-source --format pretty --tags @~fast, ~@not_ready
+metatags:  --tags @metatags
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+wip: --tags @wip
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+smoke: --tags @smoke
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@smoke -r features/support" %>
+quick_order_all_products: --tags @quick_order
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+creditcard: --tags @creditcard
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+klarna: --tags @klarna
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+payment: --tags @payment
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+paypal: --tags @paypal
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+paypal: --tags @paypal
+sepa: --tags @sepa
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+sepa: --tags @sepa
+localization: --tags @localization
+<% options = "--format 'Timestamped::PrettyFormatter' -t ~@wip -r features/support" %>
+localization: --tags @localization
+
+
+

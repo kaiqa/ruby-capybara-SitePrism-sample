@@ -1,0 +1,17 @@
+
+  site_root: "/"
+  local_box_overview_page: "/variante/boxen-overview"
+  local_box_o_page: "/box/variante/Ohbox"
+  local_boxpage_v_page: "/box/variante/vboxe"
+  local_box_boxpage_h_page: "/box/variante/boxpage_h"
+  local_customer_login_page: "/kunden/account/register"
+  imprint_page: "/impressum"
+  gtc_page: "/agb"
+
+local_box_o_box_product_slider_info_text_source: '' # target_site: "http://apiman:hz4uUJ3E@www-staging.apiman.de/"
+ocal_box_o_box_product_slider_info_text_source: '' # target_site: "http://apiman:hz4uUJ3E@www-staging.apiman.de/"
+
+ # target_site: http://apiman:hz4dd3E@www-staging.apiman.de/books/variante/ebox/
+ # target_site: http://apiman:hz4dduUJ3E@www-staging.apiman.de/books/variante/gbox/
+ # target_site: "https://www.apiman.de/"
+ # target_site: http://www-development.apiman.de/
